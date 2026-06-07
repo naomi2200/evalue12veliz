@@ -5,4 +5,5 @@ export interface Country {
   flags: {
     png: string;
   };
+  region: string;
 }
