@@ -20,7 +20,7 @@ Aplicación web desarrollada con React y TypeScript que consume información de 
 Clonar el repositorio:
 
 ```bash
-git clone https://github.com/TU-USUARIO/countries-react.git
+git clone https://github.com/naomi2200/evalue12veliz.git
 ```
 
 Ingresar al proyecto:
@@ -104,7 +104,7 @@ http://localhost:5173
 Pendiente de agregar enlace de Vercel.
 
 ```txt
-https://tu-proyecto.vercel.app
+https://evalue12veliz-ckh7.vercel.app/
 ```
 
 ---
@@ -114,7 +114,7 @@ https://tu-proyecto.vercel.app
 Pendiente de agregar enlace de YouTube.
 
 ```txt
-https://youtube.com/...
+https://www.youtube.com/watch?v=HWxSOqgWn50
 ```
 
 ---
